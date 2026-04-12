@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bayan-portal-bb50e"
+  },
+  "targets": {
+    "bayan-portal-bb50e": {
+      "hosting": {
+        "play": [
+          "bayan-play"
+        ]
+      }
+    }
+  }
+}
